@@ -1,0 +1,5 @@
+day,"ROUND(AVG(tip_p),2)","ROUND(STDDEV_SAMP(tip_p), 2)",COUNT(*)
+Fri,16.99,4.77,19
+Sun,16.69,8.47,76
+Thur,16.13,3.86,62
+Sat,15.31,5.13,87

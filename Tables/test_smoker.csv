@@ -1,0 +1,3 @@
+smoker,"ROUND(AVG(tip_p),2)","ROUND(STDDEV_SAMP(tip_p), 2)",COUNT(*)
+Yes,16.32,8.51,93
+No,15.93,3.99,151

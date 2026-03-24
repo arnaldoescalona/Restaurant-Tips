@@ -1,0 +1,3 @@
+time,"ROUND(AVG(tip_p),2)","ROUND(STDDEV_SAMP(tip_p), 2)",COUNT(*)
+Lunch,16.41,4.02,68
+Dinner,15.95,6.75,176

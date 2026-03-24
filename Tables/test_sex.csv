@@ -1,0 +1,3 @@
+sex,"ROUND(AVG(tip_p),2)","ROUND(STDDEV_SAMP(tip_p), 2)",COUNT(*)
+Female,16.65,5.36,87
+Male,15.76,6.48,157
